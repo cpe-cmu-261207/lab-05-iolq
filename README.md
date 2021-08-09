@@ -13,4 +13,5 @@
 https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/EaoCQG1WX35OhPGBjLxBNZ4B8CBEcwCYcNxSkdVrD1srfA?e=gyrzyY
 
 เมื่อ Deploy app เรียบร้อยแล้ว ให้ใส่ URL ที่นี่ : 
-https://cpe-cmu-261207.github.io/lab-05-iolq/
+http://127.0.0.1:5500/lab-05-iolq/public/index.html
+common-cook.surge.sh
